@@ -4,7 +4,7 @@ Interview Buddy is a website project designed to help you prepare for job interv
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 50k+ members. It's a place where people help each other out.
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Next.js
 * Firebase
@@ -14,18 +14,18 @@ If you're getting started and need assistance or face any bugs, join our active 
 * Google Gemini
 * Zod
 
-## 🔋 Features
+##  Features
 
-* **👉 Authentication:** Sign Up and Sign In using password/email authentication handled by Firebase.
-* **👉 Create Interviews:** Easily generate job interviews with the help of Vapi voice assistants and Google Gemini.
-* **👉 Get feedback from AI:** Take the interview with an AI voice agent, and receive instant feedback based on your conversation.
-* **👉 Modern UI/UX:** A sleek and user-friendly interface designed for a great experience.
-* **👉 Interview Page:** Conduct AI-driven interviews with real-time feedback and detailed transcripts.
-* **👉 Dashboard:** Manage and track all your interviews with easy navigation.
-* **👉 Responsiveness:** Fully responsive design that works seamlessly across devices.
+* ** Authentication:** Sign Up and Sign In using password/email authentication handled by Firebase.
+* ** Create Interviews:** Easily generate job interviews with the help of Vapi voice assistants and Google Gemini.
+* ** Get feedback from AI:** Take the interview with an AI voice agent, and receive instant feedback based on your conversation.
+* ** Modern UI/UX:** A sleek and user-friendly interface designed for a great experience.
+* ** Interview Page:** Conduct AI-driven interviews with real-time feedback and detailed transcripts.
+* ** Dashboard:** Manage and track all your interviews with easy navigation.
+* ** Responsiveness:** Fully responsive design that works seamlessly across devices.
 * And many more, including clean code architecture and reusability.
 
-## 🤸 Quick Start
+##  Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
