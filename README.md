@@ -1,8 +1,6 @@
-# Interview Buddy
+# InterView
 
 Interview Buddy is a website project designed to help you prepare for job interviews by integrating AI models. The platform offers a sleek and modern experience, allowing you to practice with AI-driven mock interviews.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 50k+ members. It's a place where people help each other out.
 
 ##  Tech Stack
 
